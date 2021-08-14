@@ -2,13 +2,13 @@
 
 ## Contact information
 * **Phone:** +7 9081881867
-* **e-mail** deirin@yandex.ru
+* **e-mail:** deirin@yandex.ru
 * **Telegram:** Dairin-dei
 
 ## About me
 For some years now I've been working in consulting and developing 1C:Enterprise solutions for accounting and manufacturing. 
-But I've always been interested in web-development because this field has enormous possibilities for advancing and is always challenging.
-I've learned basics in HTML/SCC and continuing with JavaScript, frameworks and other related themes.
+But I've always been interested in web-development as this field has enormous possibilities for advancing and is always challenging.
+I've learned basics in HTML/SCC and go on with JavaScript, frameworks and other related themes.
 I've also began to study Python but decided to postpone it a bit.
 
 ## Skills
@@ -18,12 +18,8 @@ I've also began to study Python but decided to postpone it a bit.
 * VSCode, PyCharm community
 
 ## Code example:
-###Task
-*If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-
-Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).
-
-Note: If the number is a multiple of both 3 and 5, only count it once.*
+### Task
+*If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them). Note: If the number is a multiple of both 3 and 5, only count it once.*
 
 ### Solution
 
@@ -38,19 +34,23 @@ def solution(number):
                 sum+=count
         return sum
 ```       
+## Education
+* [Southern Federal University](https://sfedu.ru/) (Russia, Rostov-on-Don)
+    * Applied mathematics
 
-##Courses
+## Courses
 
-* HTML and SCC courses on [Stepik] (www.stepik.org)
-![alt text](img/cert-freeCodeCamp.png "Sertificate on www.freeCodeCamp.org")
-* Responsive Web Design on [freeCodeCamp] (https://www.freecodecamp.org/)
-* Introduction to Computational Thinking and Data Science on [edx.com] (www.edx.org)
-* Introduction to Computer Science and Programming Using Python on [edx.com] (www.edx.org)
-* Python (basics and application) on [Stepik] (www.stepik.org)
+* HTML and SCC courses on [Stepik](www.stepik.org)
+* Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/)
+![alt text](cert-freeCodeCamp.png "Sertificate on www.freeCodeCamp.org")
+* Introduction to Computational Thinking and Data Science on [edx.com](www.edx.org)
+* Introduction to Computer Science and Programming Using Python on [edx.com](www.edx.org)
+* Python (basics and application) on [Stepik](www.stepik.org)
 
 ## Languages
 
-Russian (native)
-English Advanced (according to [www.efset.org]www.efset.org)
-![alt text](img/English_test.png "Estimation of www.efset.org")
+* English Advanced (according to [www.efset.org](www.efset.org))
+![alt text](English_test.png "Estimation of www.efset.org")
 
+
+* Russian (native)
