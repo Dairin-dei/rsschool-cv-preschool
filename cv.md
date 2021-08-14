@@ -1,14 +1,15 @@
 # Olga Yakusheva
 
 ## Contact information
-**Phone:** +7 9081881867
-**e-mail** deirin@yandex.ru
-**Telegram:** Dairin-dei
+* **Phone:** +7 9081881867
+* **e-mail** deirin@yandex.ru
+* **Telegram:** Dairin-dei
 
 ## About me
 For some years now I've been working in consulting and developing 1C:Enterprise solutions for accounting and manufacturing. 
 But I've always been interested in web-development because this field has enormous possibilities for advancing and is always challenging.
 I've learned basics in HTML/SCC and continuing with JavaScript, frameworks and other related themes.
+I've also began to study Python but decided to postpone it a bit.
 
 ## Skills
 * HTML and CSS
@@ -39,6 +40,10 @@ def solution(number):
 ```       
 ## Experience
 
-* HTML and SCC courses on Stepik(completed)
-* 
+* HTML and SCC courses on [Stepik] (www.stepik.org)
+* Responsive Web Design on freeCodeCamp
+* Introduction to Computational Thinking and Data Science on [edx.com] (www.edx.org)
+* Introduction to Computer Science and Programming Using Python on [edx.com] (www.edx.org)
+* Python (basics and application) on [Stepik] (www.stepik.org)
+
         
