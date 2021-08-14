@@ -38,12 +38,19 @@ def solution(number):
                 sum+=count
         return sum
 ```       
-## Experience
+
+##Courses
 
 * HTML and SCC courses on [Stepik] (www.stepik.org)
-* Responsive Web Design on freeCodeCamp
+![alt text](img/cert-freeCodeCamp.png "Sertificate on www.freeCodeCamp.org")
+* Responsive Web Design on [freeCodeCamp] (https://www.freecodecamp.org/)
 * Introduction to Computational Thinking and Data Science on [edx.com] (www.edx.org)
 * Introduction to Computer Science and Programming Using Python on [edx.com] (www.edx.org)
 * Python (basics and application) on [Stepik] (www.stepik.org)
 
-        
+## Languages
+
+Russian (native)
+English Advanced (according to [www.efset.org]www.efset.org)
+![alt text](img/English_test.png "Estimation of www.efset.org")
+
