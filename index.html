@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>RSSchool CV</title>
+  </head>
+  <body>
+    <main>
+      <div class="in-center">
+        <section class="contacts-skills">
+          <img src="img/Photo.png" alt="Фото" class="photo" />
+          <h2>Contacts</h2>
+          <ul class="ul_contactsskills list">
+            <li class="in-block">
+              <img src="img/phone.png" alt="Телефон" width="32" /><a
+                href="tel:+"
+              >
+                +7 9081881867</a
+              >
+            </li>
+            <li class="in-block">
+              <img src="img/mail.png" alt="E-mail" width="35" />
+              <a href="mailto:deirin@yandex.ru"> deirin@yandex.ru</a>
+            </li>
+            <li class="in-block">
+              <img src="img/Telegram.PNG" alt="Телеграм" width="35" />
+              <a href="https://www.t.me/@Dairin-dei" target="_blank">
+                @Dairin-dei</a
+              >
+            </li>
+          </ul>
+          <h2>Skills</h2>
+          <ul class="on-left list">
+            <li>HTML and CSS</li>
+            <li>Python (Basic)</li>
+            <li>Git, GitHub</li>
+            <li>VSCode, PyCharm community</li>
+          </ul>
+        </section>
+        <section class="essential">
+          <header class="my-name">
+            <h1>Olga Yakusheva</h1>
+          </header>
+          <div class="about-me">
+            <div>
+              <h2>About me</h2>
+              <p>
+                For some years now I've been working in consulting and
+                developing 1C:Enterprise solutions for accounting and
+                manufacturing. But I've always been interested in
+                web-development as this field has enormous possibilities for
+                advancing and is always challenging. I've learned basics in
+                HTML/SCC and go on with JavaScript, frameworks and other related
+                themes. I've also began to study Python but decided to postpone
+                it a bit.
+              </p>
+            </div>
+          </div>
+
+          <h2>Education</h2>
+          <p>
+            <a href="https://sfedu.ru">Southern Federal University</a> (Russia,
+            Rostov-on-Don)
+          </p>
+          <p><i>Applied mathematics</i></p>
+          <h2>Courses</h2>
+          <ul class="left-padding">
+            <li>
+              HTML and SCC courses on
+              <a href="http://www.stepik.org">www.Stepik.org"</a>
+            </li>
+            <li>
+              Responsive Web Design on
+              <a href="https://www.freecodecamp.org">www.freeCodeCamp</a>
+              <figure>
+                <img
+                  src="img/cert-freeCodeCamp.png"
+                  alt="Sertificate freeCodeCamp"
+                  width="150"
+                />
+                <figcaption>Сертификат freeCodeCamp</figcaption>
+              </figure>
+            </li>
+            <li>
+              Introduction to Computational Thinking and Data Science on
+              <a href="http://www.edx.org">www.edx.org</a>
+            </li>
+            <li>
+              Introduction to Computer Science and Programming Using Python on
+              <a href="http://www.edx.org">www.edx.org</a>
+            </li>
+            <li>
+              Python (basics and application) on
+              <a href="http://www.stepik.org">www.Stepik.org"</a>
+            </li>
+          </ul>
+          <h2>Languages</h2>
+          <ul>
+            <li>English (Advanced)</li>
+            <li>Russian (native)</li>
+          </ul>
+          <section class="code-example">
+            <h2>Code example</h2>
+            <div class="left-padding">
+              <h4>Task</h4>
+              <p>
+                <i
+                  >If we list all the natural numbers below 10 that are
+                  multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these
+                  multiples is 23. Finish the solution so that it returns the
+                  sum of all the multiples of 3 or 5 below the number passed in.
+                  Additionally, if the number is negative, return 0 (for
+                  languages that do have them). Note: If the number is a
+                  multiple of both 3 and 5, only count it once.</i
+                >
+              </p>
+              <pre><code>
+                 def solution(number):
+                        if number&lt;0:
+                            return 0
+                        else:
+                            sum = 0;
+                            for count in range(number):
+                                if count%3==0 or count%5==0:
+                                    sum+=count
+                            return sum
+                        </code></pre>
+            </div>
+          </section>
+        </section>
+      </div>
+      <footer>
+        <div class="footer">
+          <a href="http://https://github.com/Dairin-dei">My GitHub</a>
+          <a href="https://rs.school/js/">
+            <img src="img/rs_school_js.svg" alt="Logo RSSchool" width="100" />
+          </a>
+
+          Made in 2021
+        </div>
+      </footer>
+    </main>
+  </body>
+</html>
