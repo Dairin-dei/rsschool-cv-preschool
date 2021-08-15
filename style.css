@@ -1,0 +1,104 @@
+body {
+  height: 100%;
+}
+
+a {
+  color: rgb(90, 4, 170);
+}
+
+a.simple:hover {
+  color: hsl(305, 88%, 62%);
+}
+
+a:visited {
+  color: #924f4fad;
+}
+
+main {
+  background: linear-gradient(75deg, #efc8f8, #e8e0e9);
+  font-family: "Montserrat'", Arial, Helvetica, sans-serif;
+  width: 900px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.in-center {
+  display: flex;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.essential {
+  width: 650px;
+  text-align: justify;
+  padding: 15px;
+}
+
+.contacts-skills {
+  width: 250px;
+  padding: 10px;
+  background-color: #a98caa;
+}
+.ul_contactsskills {
+  text-align: left;
+}
+
+.photo {
+  border: 1px solid black;
+  border-radius: 5%;
+  width: 200px;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+}
+
+li {
+  vertical-align: center;
+}
+
+.on-left {
+  text-align: left;
+  padding-left: 40px;
+}
+
+.my-name {
+  padding: 20px;
+  background-color: #a98caa;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: -15px;
+  margin-left: -20px;
+  margin-right: -15px;
+}
+
+.list {
+  line-height: 30px;
+}
+
+.essential {
+  text-align: left;
+}
+
+.footer {
+  background-color: #a98caa;
+  padding: 10px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.about-me {
+  text-align: justify;
+}
+
+.left-padding {
+  padding-left: 10px;
+}
+
+.less {
+  width: 100px;
+}
