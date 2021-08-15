@@ -1,3 +1,4 @@
 # rsschool-cv
+
 CV for RSSchool
-https://Dairin-dei.github.io/rsschool-cv/cv
+https://Dairin-dei.github.io/rsschool-cv/
